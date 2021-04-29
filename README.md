@@ -4,7 +4,7 @@
 
 
 
-##Improvements in functionality to be updated in the future...
+## Improvements in functionality to be updated in the future...
 
 1. Display the location for each move in the format (col, row) in the move history list.
 2. Bold the currently selected item in the move list.
